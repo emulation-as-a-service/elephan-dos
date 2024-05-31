@@ -1,1 +1,1 @@
-https://github.com/rafaelgieschke/elephan-dos/raw/main/elephan-dos
+https://github.com/emulation-as-a-service/elephan-dos/raw/main/elephan-dos
